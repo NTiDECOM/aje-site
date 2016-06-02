@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #b8d37d;
+    color: #ebb44a;
 }
 
 h1,
@@ -277,7 +277,7 @@ section.success a:hover {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #ebb44a;
     background: #fff;
 }
 
